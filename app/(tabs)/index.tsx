@@ -8,7 +8,7 @@ import {
   SafeAreaView,
   useColorScheme,
 } from "react-native";
-import { useNavigation } from "@react-navigation/native";
+import { useNavigation } from "expo-router";
 import { Text, View } from "@/components/Themed";
 import { Ionicons } from "@expo/vector-icons";
 export default function TabOneScreen() {
