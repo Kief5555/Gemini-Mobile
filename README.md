@@ -1,0 +1,1 @@
+This was going to be a project, but I guess for now its for reporting expo router bug
