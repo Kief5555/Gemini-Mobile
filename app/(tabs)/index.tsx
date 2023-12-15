@@ -21,6 +21,7 @@ export default function TabOneScreen() {
     console.log("Sending message:", inputText);
     // Clear the input after sending
     setInputText("");
+    navigation.navigate('settings' as never)
   };
 
   return (
